@@ -271,7 +271,7 @@
       "title": "مهد کودک"
     }
   ],
-  "mid-imgs":[
+  "midImgs":[
     {"id":1 , "src" : "/imgs/mid2-1.jpg", "alt":"#"},
     {"id":2 , "src" : "/imgs/mid2-3.jpg", "alt":"#"},
     {"id":3 , "src" : "/imgs/mid2-2.jpg", "alt":"#"}
