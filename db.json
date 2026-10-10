@@ -14,7 +14,7 @@
     {"id":3,"title":"آزمون","href":"./azmoun.html"},
     {"id":4,"title":"تماس با ما","href":"#"}
   ],
-  "1stSlider": [
+  "stSlider": [
     {"id":1 ,"src": "./public/imgs/slider1/beastmode-240x320.png", "alt":"#", "title":"بیست مد انگلیسی دوازدهم","price": "۹۹۰,۰۰۰ تومان" },
     {"id":2 ,"src": "./public/imgs//slider1/imggg1-240x320.png", "alt":"#", "title":"بتمن تست زیست جامع جلد سوال","price": "۲,۲۷۰,۰۰۰ تومان" },
     {"id":2 ,"src": "./public/imgs//slider1/imggg2-240x320.png", "alt":"#", "title":"بتمن تست فیزیک جامع تجربی جلد اول: دوازدهم","price": "۲,۳۹۰,۰۰۰ تومان" },
@@ -50,7 +50,7 @@
     {"id":23, "src" : "./public/imgs/test23.svg" , "href" :"#"},
     {"id":24, "src" : "./public/imgs/test24.svg" , "href" :"#"}
   ],
-  "2ndSlider" : [
+  "ndSlider" : [
     {
       "id": 1,
       "title": "سررسید 1405 خیلی سبز طرح To Do رنگ صورتی",
@@ -276,7 +276,7 @@
     {"id":2 , "src" : "/imgs/mid2-3.jpg", "alt":"#"},
     {"id":3 , "src" : "/imgs/mid2-2.jpg", "alt":"#"}
   ],
-  "3rdSlider":[
+  "rdSlider":[
     {"id":1,"title":"تست تاریخ جامع جلد سوال و پاسخ","src":"/imgs/swiperrr1.png","alt":"#","price":"۱,۵۹۰,۰۰۰"},
     {"id":2,"title":"کتاب تست فلسفه و منطق جامع جلد سوال و پاسخ","src":"/imgs/swiperrr2.png","alt":"#","price":"۲,۴۵۰,۰۰۰"},
     {"id":3,"title":"کتاب تست جغرافیا جامع جلد سوال و پاسخ","src":"/imgs/swiperrr3.png","alt":"#","price":"۱,۳۱۰,۰۰۰"},
@@ -393,7 +393,7 @@
       "text": "تمامی حقوق وب‌سایت «انتشارات خیلی‌سبز» محفوظ می‌باشد و هرگونه کپی‌برداری از کل یا جز آن بدون ذکر منبع پیگرد قانونی دارد"
     }
   ],
-  "az-menu":[
+  "azMenu":[
     {
       "id": 1,
       "title": "خانه",
@@ -446,7 +446,7 @@
       "href": "#"
     }
   ],
-  "az-banners": [
+  "azBanners": [
     {
       "id": 1,
       "src": "/imgs/بنر سایت آزمون و 360 - آزمون پلاس ها.png.jpeg",
