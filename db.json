@@ -54,7 +54,7 @@
     {
       "id": 1,
       "title": "سررسید 1405 خیلی سبز طرح To Do رنگ صورتی",
-      "src": "/imgs/book1.png",
+      "src": "./imgs/book1.png",
       "alt": "#",
       "href": "#",
       "price": {
@@ -65,7 +65,7 @@
     {
       "id": 2,
       "title": "سررسید 1405 خیلی سبز طرح To Do رنگ آبی",
-      "src": "/imgs/book2.png",
+      "src": "./imgs/book2.png",
       "alt": "#",
       "href": "#",
       "price": {
@@ -76,7 +76,7 @@
     {
       "id": 3,
       "title": "سررسید 1405 خیلی سبز طرح Calender رنگ سبز",
-      "src": "/imgs/book3.png",
+      "src": "./imgs/book3.png",
       "alt": "#",
       "href": "#",
       "price": {
@@ -87,7 +87,7 @@
     {
       "id": 4,
       "title": "سررسید 1405 خیلی سبز طرح نئونی رنگ زرد صورتی",
-      "src": "/imgs/book4.png",
+      "src": "./imgs/book4.png",
       "alt": "#",
       "href": "#",
       "price": {
@@ -98,7 +98,7 @@
     {
       "id": 5,
       "title": "سررسید 1405 خیلی سبز طرح 365 رنگ سبز",
-      "src": "/imgs/book5.png",
+      "src": "./imgs/book5.png",
       "alt": "#",
       "href": "#",
       "price": {
@@ -109,7 +109,7 @@
     {
       "id": 6,
       "title": "سررسید 1405 خیلی سبز طرح نئونی رنگ زرد قرمز",
-      "src": "/imgs/book6.png",
+      "src": "./imgs/book6.png",
       "alt": "#",
       "href": "#",
       "price": {
@@ -120,7 +120,7 @@
     {
       "id": 7,
       "title": "سررسید 1405 خیلی سبز طرح نئونی رنگ سبز زرد",
-      "src": "/imgs/book7.png",
+      "src": "./imgs/book7.png",
       "alt": "#",
       "href": "#",
       "price": {
@@ -131,7 +131,7 @@
     {
       "id": 8,
       "title": "سررسید 1405 خیلی سبز طرح To Do رنگ زرد",
-      "src": "/imgs/book8.png",
+      "src": "./imgs/book8.png",
       "alt": "#",
       "href": "#",
       "price": {
@@ -142,7 +142,7 @@
     {
       "id": 9,
       "title": "سررسید 1405 خیلی سبز طرح 365 رنگ گلبهی",
-      "src": "/imgs/book9.png",
+      "src": "./imgs/book9.png",
       "alt": "#",
       "href": "#",
       "price": {
@@ -153,7 +153,7 @@
     {
       "id": 10,
       "title": "سررسید 1405 خیلی سبز طرح 365 رنگ بنفش",
-      "src": "/imgs/book10.png",
+      "src": "./imgs/book10.png",
       "alt": "#",
       "href": "#",
       "price": {
@@ -164,7 +164,7 @@
     {
       "id": 11,
       "title": "سررسید 1405 خیلی سبز طرح قلب",
-      "src": "/imgs/book11.png",
+      "src": "./imgs/book11.png",
       "alt": "#",
       "href": "#",
       "price": {
@@ -175,7 +175,7 @@
     {
       "id": 12,
       "title": "سررسید 1405 خیلی سبز طرح رنگ صورتی",
-      "src": "/imgs/book12.png",
+      "src": "./imgs/book12.png",
       "alt": "#",
       "href": "#",
       "price": {
@@ -272,24 +272,24 @@
     }
   ],
   "midImgs":[
-    {"id":1 , "src" : "/imgs/mid2-1.jpg", "alt":"#"},
-    {"id":2 , "src" : "/imgs/mid2-3.jpg", "alt":"#"},
-    {"id":3 , "src" : "/imgs/mid2-2.jpg", "alt":"#"}
+    {"id":1 , "src" : "./imgs/mid2-1.jpg", "alt":"#"},
+    {"id":2 , "src" : "./imgs/mid2-3.jpg", "alt":"#"},
+    {"id":3 , "src" : "./imgs/mid2-2.jpg", "alt":"#"}
   ],
   "rdSlider":[
-    {"id":1,"title":"تست تاریخ جامع جلد سوال و پاسخ","src":"/imgs/swiperrr1.png","alt":"#","price":"۱,۵۹۰,۰۰۰"},
-    {"id":2,"title":"کتاب تست فلسفه و منطق جامع جلد سوال و پاسخ","src":"/imgs/swiperrr2.png","alt":"#","price":"۲,۴۵۰,۰۰۰"},
-    {"id":3,"title":"کتاب تست جغرافیا جامع جلد سوال و پاسخ","src":"/imgs/swiperrr3.png","alt":"#","price":"۱,۳۱۰,۰۰۰"},
-    {"id":4,"title":"کتاب تست روانشناسی جامع","src":"/imgs/swiperrr4.png","alt":"#","price":"۱,۷۹۰,۰۰۰"},
-    {"id":5,"title":"کتاب تست اقتصاد جامع","src":"/imgs/swiperrr5.png","alt":"#","price":"۱,۷۹۰,۰۰۰"},
-    {"id":6,"title":"کتاب تست جامعه شناسی جامع جلد سوال و پاسخ","src":"/imgs/swiperrr6.png","alt":"#","price":"۱,۹۹۰,۰۰۰"},
-    {"id":7,"title":"تست ریاضی و آمار جامع انسانی جلد سوال و...","src":"/imgs/swiperrr7.png","alt":"#","price":"۱,۵۵۰,۰۰۰"}
+    {"id":1,"title":"تست تاریخ جامع جلد سوال و پاسخ","src":"./imgs/swiperrr1.png","alt":"#","price":"۱,۵۹۰,۰۰۰"},
+    {"id":2,"title":"کتاب تست فلسفه و منطق جامع جلد سوال و پاسخ","src":"./imgs/swiperrr2.png","alt":"#","price":"۲,۴۵۰,۰۰۰"},
+    {"id":3,"title":"کتاب تست جغرافیا جامع جلد سوال و پاسخ","src":"./imgs/swiperrr3.png","alt":"#","price":"۱,۳۱۰,۰۰۰"},
+    {"id":4,"title":"کتاب تست روانشناسی جامع","src":"./imgs/swiperrr4.png","alt":"#","price":"۱,۷۹۰,۰۰۰"},
+    {"id":5,"title":"کتاب تست اقتصاد جامع","src":"./imgs/swiperrr5.png","alt":"#","price":"۱,۷۹۰,۰۰۰"},
+    {"id":6,"title":"کتاب تست جامعه شناسی جامع جلد سوال و پاسخ","src":"./imgs/swiperrr6.png","alt":"#","price":"۱,۹۹۰,۰۰۰"},
+    {"id":7,"title":"تست ریاضی و آمار جامع انسانی جلد سوال و...","src":"./imgs/swiperrr7.png","alt":"#","price":"۱,۵۵۰,۰۰۰"}
   ],
   "footer": [
     {
       "id": 1,
       "type": "mainLogo",
-      "src": "/imgs/logo.svg",
+      "src": "./imgs/logo.svg",
       "alt": "#"
     },
     {
@@ -297,7 +297,7 @@
       "type": "about",
       "title": "درس خوندن از حالا خیلی‌سبزه",
       "description": "ما فکر می‌کنیم که انجام دادنِ کارهای معمولی یا معمولی انجام دادنِ کارها هیچ تغییری در هیچ کجای دنیا ایجاد نمی‌کند، برای همین به همه می‌گوییم «فرق داشته باش» و به خودمان هم می‌گوییم «ناشر خیلی متفاوت»! ما همیشه دوست داریم به هر چیز (محصول، خدمت، روش و …) از اول و دوباره نگاه کنیم و آن را متمایز و متفاوت از آن‌چه که هست بسازیم یا ارائه کنیم. دوست داریم با همه‌ی کارهایمان مخاطبانمان را تحت تأثیر قرار دهیم. آن‌ها را بخندانیم، خوشحال کنیم و تعجبشان را برانگیزیم. همیشه دوست داریم بهترین باشیم حتی اگر الان نباشیم آن‌قدر برای رسیدن به آن تلاش می‌کنیم تا به آن دست پیدا کنیم.",
-      "src": "/imgs/logoenamad.png",
+      "src": "./imgs/logoenamad.png",
       "alt": "#"
     },
     {
@@ -351,37 +351,37 @@
       "type": "logos",
       "logos": [
         {
-          "src": "/imgs/logo1.svg",
+          "src": "./imgs/logo1.svg",
           "alt": "#",
           "href": "#"
         },
         {
-          "src": "/imgs/logo2.svg",
+          "src": "./imgs/logo2.svg",
           "alt": "#",
           "href": "#"
         },
         {
-          "src": "/imgs/logo3.svg",
+          "src": "./imgs/logo3.svg",
           "alt": "#",
           "href": "#"
         },
         {
-          "src": "/imgs/logo4.svg",
+          "src": "./imgs/logo4.svg",
           "alt": "#",
           "href": "#"
         },
         {
-          "src": "/imgs/logo5.svg",
+          "src": "./imgs/logo5.svg",
           "alt": "#",
           "href": "#"
         },
         {
-          "src": "/imgs/logo6.svg",
+          "src": "./imgs/logo6.svg",
           "alt": "#",
           "href": "#"
         },
         {
-          "src": "/imgs/logo7.svg",
+          "src": "./imgs/logo7.svg",
           "alt": "#",
           "href": "#"
         }
@@ -449,17 +449,17 @@
   "azBanners": [
     {
       "id": 1,
-      "src": "/imgs/بنر سایت آزمون و 360 - آزمون پلاس ها.png.jpeg",
+      "src": "./imgs/بنر سایت آزمون و 360 - آزمون پلاس ها.png.jpeg",
       "alt": "بنر آزمون پلاس 360"
     },
     {
       "id": 2,
-      "src": "/imgs/بنر آزمون-01.png",
+      "src": "./imgs/بنر آزمون-01.png",
       "alt": "بنر آزمون"
     }
   ],
   "chandKonkoor":[
-    {"id":1 , "src":"/imgs/chand-desk.png" , "alt":"#"}
+    {"id":1 , "src":"./imgs/chand-desk.png" , "alt":"#"}
   ],
   "azmoonIntro": [
     {
@@ -471,14 +471,14 @@
       "moreText": "برای آشنایی بیشتر با حرفه ای ترین اساتید و مولفان کنکور کلیک کنید:",
       "buttonText": "بیشتر بخوانید",
       "buttonLink": "#",
-      "image": "/imgs/kheilisabz-image1.svg",
+      "image": "./imgs/kheilisabz-image1.svg",
       "imageAlt": "آزمون های آزمایشی خیلی سبز"
     }
   ],
   "azMIdimgs":[
-    {"id":1 , "src":"/imgs/banner1.jpg", "alt":"#"},
-    {"id":2 , "src":"/imgs/banner2.png", "alt":"#"},
-    {"id":3 , "src":"/imgs/banner3.png", "alt":"#"}
+    {"id":1 , "src":"./imgs/banner1.jpg", "alt":"#"},
+    {"id":2 , "src":"./imgs/banner2.png", "alt":"#"},
+    {"id":3 , "src":"./imgs/banner3.png", "alt":"#"}
   ],
   "services": [
     {
@@ -556,9 +556,9 @@
   }
 ],
 "footerImgLinks":[
-  {"id":1 , "src":"/imgs/telegram.svg","href":"#"},
-  {"id":2 , "src":"/imgs/instagram.svg","href":"#"},
-  {"id":2 , "src":"/imgs/aparat.svg","href":"#"}
+  {"id":1 , "src":"./imgs/telegram.svg","href":"#"},
+  {"id":2 , "src":"./imgs/instagram.svg","href":"#"},
+  {"id":2 , "src":"./imgs/aparat.svg","href":"#"}
 ],
 "onlineExam": [
     {
